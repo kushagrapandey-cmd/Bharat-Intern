@@ -1,0 +1,18 @@
+/* src/theme.css */
+
+/* Define theme colors */
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --bg-color: #f8f9fa;
+  --text-color: #333;
+}
+
+/* Apply theme styles to components */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: Arial, sans-serif;
+}
+
+/* Add more theme styles as needed */
